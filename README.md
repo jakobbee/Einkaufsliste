@@ -5,6 +5,8 @@ Dies ist ein kleines Projekt zur Veranschaulichung der Github abläufe und der M
 
 **Studium**
 
+![](hfu.jpg)
+
 * Hochschule: HFU Furtwangen
 * Modul: Open Source-basierte Softwareentwicklung
 
