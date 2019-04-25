@@ -3,6 +3,11 @@ Dies ist ein kleines Projekt zur Veranschaulichung der Github abläufe und der M
 
 ## Über mich
 
-**Studium** HFU Furtwangen
+**Studium**
+
+    * Hochschule: HFU Furtwangen
+
+    + Modul: Open Source-basierte Softwareentwicklung
+
 **Wohnort** 127.0.0.1
-**Modul** Open Source-basierte Softwareentwicklung
+
